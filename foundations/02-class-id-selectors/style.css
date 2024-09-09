@@ -1,0 +1,13 @@
+p {
+    background-color:lightpink;
+    font-style:Verdana "DefaVu Sans" sans-serif;
+}
+.two {
+    color: blue;
+    font-size:36px;
+}
+.four {
+    background-color:green;
+    font-weight:bold;
+    font-size:24px;
+}
